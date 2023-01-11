@@ -5,7 +5,8 @@ For this Belly Button Biodiversity Dataset challenge, we looked at the various m
 ### This Project
 We were first asked to create our new repository and download the provided files from our Module 14 Challenge file.  After take a glance at the data, the files were pushed to GitHub.
 
-We were then asked to use D3 to read in our json files from an amazon aws url.  From the files, we needed to create several displays to show the data.
+We were then asked to use D3 to read in our json sample files that came from an amazon aws url.  From the files, we needed to create several displays to show the data.
+
 - A Demographic Data Box
   ![Demographic_mb](https://user-images.githubusercontent.com/113635771/211698637-e03ab63d-3f66-4732-a5f9-f540e55f17d7.png)
 
