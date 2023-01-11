@@ -6,13 +6,17 @@ For this Belly Button Biodiversity Dataset challenge, we looked at the various m
 We were first asked to create our new repository and download the provided files from our Module 14 Challenge file.  After take a glance at the data, the files were pushed to GitHub.
 
 We were then asked to use D3 to read in our json files from an amazon aws url.  From the files, we needed to create several displays to show the data.
+- A Demographic Data Box
+  ![Demographic_mb](https://user-images.githubusercontent.com/113635771/211698637-e03ab63d-3f66-4732-a5f9-f540e55f17d7.png)
+
 - Horizontal Bar Chart
+  ![hbar_mb](https://user-images.githubusercontent.com/113635771/211698671-9b78ab8f-d5f6-4842-b1b2-b2e8a21aca56.png)
 
 - A Bubble Chart
-
-- A Demographic Metadata box
+  ![bubble_mb](https://user-images.githubusercontent.com/113635771/211698691-68ada7cb-82a2-43dd-b2d1-501c7445246a.png)
 
 - Bonus - Create a Gauge Chart
+  ![bubble_mb](https://user-images.githubusercontent.com/113635771/211698558-99baa266-6f5b-43c0-baa7-de067bf74847.png)
 
 The challenge to this assignment was to allow the user to select on the dropdown in the demographic box, select a new sample value and then work to have all of the various plotly plots adjust to visually show the new data.
 
