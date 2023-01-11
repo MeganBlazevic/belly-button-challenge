@@ -8,16 +8,16 @@ We were first asked to create our new repository and download the provided files
 We were then asked to use D3 to read in our json sample files that came from an amazon aws url.  From the files, we needed to create several displays to show the data.
 
 - A Demographic Data Box
-  ![Demographic_mb](https://user-images.githubusercontent.com/113635771/211698637-e03ab63d-3f66-4732-a5f9-f540e55f17d7.png)
+![Demographic_mb](https://user-images.githubusercontent.com/113635771/211698899-c22e6dd3-5ec1-4edd-ac29-2217491ef9ca.png)
 
 - Horizontal Bar Chart
-  ![hbar_mb](https://user-images.githubusercontent.com/113635771/211698671-9b78ab8f-d5f6-4842-b1b2-b2e8a21aca56.png)
+![hbar_mb](https://user-images.githubusercontent.com/113635771/211698917-198d3c88-31c4-4640-add5-ca67d0d996ef.png)
 
 - A Bubble Chart
-  ![bubble_mb](https://user-images.githubusercontent.com/113635771/211698691-68ada7cb-82a2-43dd-b2d1-501c7445246a.png)
+![bubble_mb](https://user-images.githubusercontent.com/113635771/211698935-8e7850d7-8e31-4a1b-9cfe-92b95c3c1ca2.png)
 
 - Bonus - Create a Gauge Chart
-  ![bubble_mb](https://user-images.githubusercontent.com/113635771/211698558-99baa266-6f5b-43c0-baa7-de067bf74847.png)
+![gauge_mb](https://user-images.githubusercontent.com/113635771/211698982-c2c1a8f9-e6fd-465e-8a80-fa8d340883d3.png)
 
 The challenge to this assignment was to allow the user to select on the dropdown in the demographic box, select a new sample value and then work to have all of the various plotly plots adjust to visually show the new data.
 
